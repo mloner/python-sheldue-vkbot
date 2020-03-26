@@ -1,2 +1,8 @@
-tokenVk.txt
+/.idea/
+/venv/
 dbData.txt
+tokenVk.txt
+.gitignore
+/.idea/
+/venv/
+/pcs/
