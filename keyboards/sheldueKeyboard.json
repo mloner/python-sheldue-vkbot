@@ -1,0 +1,42 @@
+{
+  "one_time": false,
+  "buttons":
+  [
+    [
+        {
+            "action":
+            {
+                "type": "text",
+                "label": "Сегодня"
+            },
+            "color": "positive"
+        },
+        {
+            "action":
+            {
+                "type": "text",
+                "label": "Завтра"
+            },
+            "color": "positive"
+       }
+    ],
+    [
+       {
+            "action":
+            {
+                "type": "text",
+                "label": "1 неделя"
+            },
+            "color": "positive"
+       },
+       {
+            "action":
+            {
+                "type": "text",
+                "label": "2 неделя"
+            },
+            "color": "positive"
+       }
+    ]
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "one_time": false,
+  "buttons":
+  [
+    [
+        {
+            "action":
+            {
+                "type": "text",
+                "label": "Привет"
+            },
+            "color": "positive"
+        },
+        {
+            "action":
+            {
+                "type": "text",
+                "label": "Погода"
+            },
+            "color": "positive"
+       }
+    ],
+    [
+       {
+            "action":
+            {
+                "type": "text",
+                "label": "Время"
+            },
+            "color": "positive"
+       }
+    ],
+    [
+       {
+            "action":
+            {
+                "type": "text",
+                "label": "Помощь"
+            },
+            "color": "positive"
+       },
+       {
+            "action":
+            {
+                "type": "text",
+                "label": "Пока"
+            },
+            "color": "positive"
+       }
+    ],
+    [
+       {
+            "action":
+            {
+                "type": "text",
+                "label": "Расписание"
+            },
+            "color": "positive"
+       }
+    ]
+  ]
+}
