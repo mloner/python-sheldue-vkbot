@@ -1,4 +1,0 @@
-mloner.mysql.pythonanywhere-services.com
-mloner
-hfk3egrk
-mloner$usersDB
